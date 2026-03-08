@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "habit-forge",
   "private": true,
   "version": "0.0.0",
@@ -30,28 +29,6 @@
     "globals": "^16.5.0",
     "tailwindcss": "^4.2.1",
     "vite": "^7.3.1"
-=======
-  "name": "habit-forge-backend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js",
-    "dev": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "cors": "^2.8.6",
-    "dotenv": "^17.3.1",
-    "express": "^5.2.1",
-    "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.2.3",
-    "nodemon": "^3.1.14"
->>>>>>> 8ad45defdb423987272843fd1192879f52c4c795
   }
 }
+  
